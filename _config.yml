@@ -1,0 +1,28 @@
+name: MFTGuide
+favicon: null
+layout_spectrum: 0.5108906673267484
+typography_spectrum: 0.3156658448278904
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.17148554883897305
+  lightness: 0.5104804455768317
+  saturation: 0.8209814005531371
+  rhythmicContrast: 0.7020720595028251
+purpose: []
